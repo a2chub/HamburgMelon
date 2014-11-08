@@ -1,0 +1,10 @@
+topic: ~test()
+language: jpj
+
+u:(うなぎ)$output=1
+u:(天気)$output=1
+u:(面積)$output=1
+u:(首都)$output=1
+u:(場所)$output=1
+u:(深さ)$output=1
+u:(価格)$output=1
